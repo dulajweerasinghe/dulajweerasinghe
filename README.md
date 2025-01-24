@@ -2,7 +2,7 @@
 **Dulaj Sachintha Weerasinghe**  
 
 📊 **Data Analysis Expertise**  
-- Over 5 years of experience leveraging tools like Tableau, SQL, Python, and Excel to analyze data, uncover insights, and support data-driven decision-making.  
+- Over 2 years of experience leveraging tools like Tableau, SQL, Python, and Excel to analyze data, uncover insights, and support data-driven decision-making.  
 
 🚀 **Operational Optimization**  
 - Achieved a **35% reduction in wastage costs** and a **68% improvement in logistics efficiency** through strategic inventory layouts and production scheduling.  
